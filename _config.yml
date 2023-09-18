@@ -1,7 +1,6 @@
-
-title: "bookDCU - CA326 Third Year Project"
+title: "bookDCU - CA400 Final Year Project"
 author: "Scott Brady & Nacé van Wyk"
-description: "Blog for the third year project of Scott Brady (20387871) and Nacé van Wyk (20467546) detailing the development of bookDCU." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Blog for the final year project of Scott Brady (20387871) and Nacé van Wyk (20467546) detailing the development of bookDCU." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "scott.brady76@mail.dcu.ie"
@@ -19,7 +18,7 @@ email: "scott.brady76@mail.dcu.ie"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
